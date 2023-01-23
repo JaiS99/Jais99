@@ -1,8 +1,7 @@
 ## Hi Im Jaisal ! 👋
- -- @Hexprt on YT 
- -- Work on diffrent stuff 
- -- try evrything and anything
- -- life is short move on.....
+ -- Working on diffrent stuff 
+ -- trying evrything and anything
+ -- life is short move on from my profile.....
  
 
 
