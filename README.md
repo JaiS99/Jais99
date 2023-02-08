@@ -1,7 +1,7 @@
 ## Hi Im Jaisal ! 👋
  -- Working on diffrent stuff 
  -- trying evrything and anything
- -- life is short move on from my profile.....
+ -- if you are looking at this profile, send me a message!
  
 
 
