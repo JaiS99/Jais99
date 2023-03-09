@@ -4,8 +4,11 @@
 <h3 align="center">I'm a developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
 <!--Profile Views badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Profile%20views&color=0e75b6&style=flat" alt="Jais99" /> </p>
+<!--Social badges-->
+<h4 align="center">Socials Links, Clickable.</h4>
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Jaisal_Srivastava-black?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/)  [![Twitter Badge](https://img.shields.io/badge/-@Jaisalstweets-black?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets)  [![Discord Badge](https://img.shields.io/badge/-GamingSkull16-black?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912)
 
 
 
