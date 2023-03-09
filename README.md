@@ -2,6 +2,8 @@
 
 ## Hi👋,I am Jaisal Srivastava! You might be looking at the most indepth github profile ever!
 <h3 align="center">I'm a developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
+<!--Profile Views badge-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Profile%20views&color=0e75b6&style=flat" alt="Jais99" /> </p>
 
 
 
