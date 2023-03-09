@@ -1,8 +1,4 @@
 ## Hi Im Jaisal ! 👋
- -- Working on diffrent stuff 
- -- trying evrything and anything
- -- if you are looking at this profile, send me a message!
- 
 
 
 
@@ -20,7 +16,8 @@
 
 
 
-<!--
+<!--  This is what appears by default 
+
 **JaiS99/Jais99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,5 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I run a YouTube Channel!
 -->
-
-
