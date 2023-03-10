@@ -1,14 +1,14 @@
 <!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
 <!--github-flavoured-Markdown starts from the first line.-->
 ## Hi👋! This is all about me.
-<div style="line-height:">
-<h3 align="center" style="font-weight:340;font-size:40px;">I'm a developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
-<h3 align="center" style="font-weight:340;font-size:35px">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
-<h3 align="center" style="font-weight:340;font-size:35px">I started contributions on github on 17th Jan 2023 and I am currently working on various technologies.</h3>
+<div>
+<h3 align="center">I'm a developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
+<h3 align="center">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
+<h3 align="center">I started contributions on github on 17th Jan 2023 and I am currently working on various technologies.</h3>
 <!--You can also use Html tags inside of Markdown.-->
 </div>
 <!--Profile Views badge-->
-<h4 align="left" style="color:red;font-size:15px;font-weight:200">Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h4>
+<h4 align="left">Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Social badges-->
 <h4 align="left">Socials Links, Clickable.</h4>
@@ -19,7 +19,7 @@
 
 
 <details>
-<summary style="color:#8DAEB0;font-weight:320;font-size:25px">What I Use Everyday?👨‍💻</summary>
+<summary>What I Use Everyday?👨‍💻</summary>
 <h4 align="left">What Devices I use:</h4>
 
 [![Apple](https://img.shields.io/badge/MacBook_Air_M2-212121.svg?style=flat&logo=apple&logoColor=silver&labelColor=black&link=https://www.apple.com/shop/buy-mac/macbook-air/m2-chip)](https://www.apple.com/shop/buy-mac/macbook-air/m2-chip) [![OnePlus](https://img.shields.io/badge/OnePlus_9R-212121.svg?style=flat&logo=oneplus&logoColor=FF0000&labelColor=black&link=https://www.oneplus.in/oneplus-9r)](https://www.oneplus.in/oneplus-9r) [![Logitech](https://img.shields.io/badge/Logitech_Pebbble-212121?style=flat&logo=logitech&labelColor=black&link=https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)](https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)
