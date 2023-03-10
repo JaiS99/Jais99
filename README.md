@@ -6,6 +6,14 @@
 <h3 align="center">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
 <h3 align="center">I started contributions on github on 17th Jan 2023 and I am currently working on various technologies.</h3>
 <!--You can also use Html tags inside of Markdown.-->
+<details>
+<summary align="left">Technologies that I use.</summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,blender,bootstrap,c,cpp,css,express,figma,gatsby,gcp,git,github,githubactions,html,java,js,latex,md,mysql,nextjs,nginx,nodejs,php,py,react,replit,tailwind,threejs,vercel,vscode,vue,windicss&theme=dark" />
+  </a>
+</p>
+</details>
 </div>
 <!--Profile Views badge-->
 <h5 align="left">Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
@@ -24,10 +32,10 @@
 
 [![Apple](https://img.shields.io/badge/MacBook_Air_M2-212121.svg?style=flat&logo=apple&logoColor=silver&labelColor=black&link=https://www.apple.com/shop/buy-mac/macbook-air/m2-chip)](https://www.apple.com/shop/buy-mac/macbook-air/m2-chip) [![OnePlus](https://img.shields.io/badge/OnePlus_9R-212121.svg?style=flat&logo=oneplus&logoColor=FF0000&labelColor=black&link=https://www.oneplus.in/oneplus-9r)](https://www.oneplus.in/oneplus-9r) [![Logitech](https://img.shields.io/badge/Logitech_Pebbble-212121?style=flat&logo=logitech&labelColor=black&link=https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)](https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)
 
-<div>
+
 <h4 align="left">Terminals & Terminal add-ons:</h4>
 <p align=left>psst!,clickable links!,most of these badges are!</p>
-</div>
+
 
 [![iTerm2](https://img.shields.io/badge/iTerm2-212121.svg?style=flat&logo=iTerm2&labelColor=black&link=https://iterm2.com)](https://iterm2.com)   [![Warp](https://img.shields.io/badge/Warp-212121.svg?style=flat&logo=Warp&labelColor=black&link=https://www.warp.dev)](https://www.warp.dev)   [![Starship](https://img.shields.io/badge/Starship-212121.svg?style=flat&logo=Starship&logoColor=DD0B78&labelColor=black&link=https://starship.rs)](https://starship.rs) 
 
