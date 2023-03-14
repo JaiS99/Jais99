@@ -55,6 +55,7 @@
 </details>
 <h4>Im working on a portfolio website for me,and learning to edit youtube videos, to post my first video on youtube.</h4>
 <h4>Target for both of these are 17th Mar 2023.</h4>
+  <h4>Learning Blender for three.js website development.</h4>
 <h4>I truly believe in the learning by doing model and follow it in my journey.</h4>
 <!--This is what appears in default readme.md if you create a new repository. I've Commented this out.
 
