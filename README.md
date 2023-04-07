@@ -58,6 +58,12 @@
 
 #### :books: My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679069314304/ff322acb-1618-41e9-9b1f-afa0318a1f68.png" alt="Why you should switch to Linux Now!"   /></a>
+<a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><strong>Why you should switch to Linux Now!</strong></a>
+<div><strong>23 Mar 2023</strong></div>
+<br/> Linux is the go-to operating system for developers.
+So, what's wrong with Windows?
+Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see many developers using Windows and while you can daily drive windows as your development e...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
