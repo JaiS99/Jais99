@@ -56,9 +56,9 @@
   <h4>Learning Blender for three.js website development.</h4>
 <h4>I truly believe in the learning by doing model and follow it in my journey.</h4>
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+#### :books: My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 
