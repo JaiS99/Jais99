@@ -58,7 +58,6 @@
 
 #### :books: My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Why you should switch to Linux Now!](https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now)
 <!-- HASHNODE_BLOG:END -->
 
 
