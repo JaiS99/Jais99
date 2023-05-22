@@ -24,7 +24,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=bear&hideborder=true&hide_progress=true">
 </details>
 <details>
-<summary align="left">Expand to see the technologies and languages that i am familiar with. ⚡ </summary>
+<summary align="left">Expand to see the technologies and languages that i am familiar with or that i am learning. ⚡ </summary>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=aws,blender,bootstrap,c,cpp,css,express,figma,gatsby,gcp,git,github,githubactions,html,java,js,latex,md,mysql,nextjs,nginx,nodejs,php,py,react,replit,tailwind,threejs,vercel,vscode,vue,windicss&theme=dark" />
