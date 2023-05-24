@@ -13,15 +13,15 @@
 <!--Social badges-->
 <h4 align="left">Socials Links, Clickable.</h4>
 
-<!--All these kind of badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
+<!--All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
 
 [![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/)  [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets)  [![Discord](https://img.shields.io/badge/-GamingSkull16-212121?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912) [![YouTube](https://img.shields.io/badge/HEXPRT-212121.svg?style=plastic&logo=YouTube&logoColor=FF0000&labelColor=black&link=https://www.youtube.com/@Hexprt)](https://www.youtube.com/@Hexprt)  [![Outlook](https://img.shields.io/badge/jaisalsrivastava@outlook.com-212121.svg?style=plastic&logo=MicrosoftOutlook&logoColor=white&labelColor=black&link=mailto:jaisalsrivastava@outlook.com)](mailto:jaisalsrivastava@outlook.com)    [![Hashnode](https://img.shields.io/badge/-@jaisalsrivastava-212121?style=plastic&labelColor=1F51FF&logo=Hashnode&link=https://jaisalsrivastava.hashnode.dev/)](https://jaisalsrivastava.hashnode.dev/)  [![Devpost](https://img.shields.io/badge/-@Jaisal_Srivastava-212121?style=plastic&labelColor=003E54&logo=Devpost&link=https://devpost.com/JaiS99)](https://devpost.com/JaiS99)
 
 <details>
 <summary allign="left">Expand to see my Github stats. 📈 </summary>
-<img align="centre" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jais99&theme=xcode" alt="Jaisal's Github Stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jais99&show_icons=true&include_all_commits=ture&theme=bear&hideborder=true&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=bear&hideborder=true&hide_progress=true">
+<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=github_dark" alt="Jaisal's Github Stats"/>
+<img src="https://streak-stats.demolab.com?user=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>
 </details>
 <details>
 <summary align="left">Expand to see the technologies and languages that i am familiar with or that i am learning. ⚡ </summary>
@@ -66,8 +66,6 @@
 So, what's wrong with Windows?
 Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see many developers using Windows and while you can daily drive windows as your development e...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
-
-
 
 
 <!--This is what appears in default readme.md if you create a new repository. I've Commented this out.
