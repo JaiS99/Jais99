@@ -19,7 +19,7 @@
 
 <details>
 <summary allign="left">Expand to see my Github stats. 📈 </summary>
-<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=github_dark" alt="Jaisal's Github Stats"/>
+<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>
 <img src="https://streak-stats.demolab.com?user=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>
 </details>
