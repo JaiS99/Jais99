@@ -1,14 +1,24 @@
+<div align="center">
+<img src="https://github.com/JaiS99/Jais99/assets/48391316/1c92d8a6-c892-437a-af06-83ee858abe50">
+</div>
+
 <!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
 <!--github-flavoured-Markdown starts from the first line.-->
-## Hi👋! This is all about me.
-<div>
-<h3 align="center">I'm a developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
-<h3 align="center">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
-<h3 align="center">I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
+## Hi👋! This is all about me.   
+
+<span>
+<div align="left"><img width="200" height="100" src="https://github.com/JaiS99/Jais99/assets/48391316/314378d4-aa54-49a8-b641-0e0aae4f6892"> </div>
+<span>
+
+<div align="center">
+<h3>I'm a web developer,open-source contributor, and a content creator, i occasionally write blog posts.</h3>
+<h3>I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
+ <h3>I enjoy doing hackathons at Major League Hacking!</h3>
+<h3>I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
 <!--You can also use Html tags inside of Markdown.-->
 </div>
 <!--Profile Views badge-->
-<h5 align="left">Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
+<h5 align="left">pstssEdit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Social badges-->
 <h4 align="left">Socials Links, Clickable.</h4>
