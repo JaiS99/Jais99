@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/JaiS99/Jais99/assets/48391316/1c92d8a6-c892-437a-af06-83ee858abe50">
+<img src="https://capsule-render.vercel.app/api?text=Hey%20you%20found%20Jaisal's%20Github!%20&animation=fadeIn&textBg=true&fontColor=AD000000&type=waving&color=gradient&height=300&section=header&fontSize=40" />
 </div>
 
 <!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
@@ -29,9 +29,17 @@
 
 <details>
 <summary allign="left">Expand to see my Github stats. 📈 </summary>
-<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>
-<img src="https://streak-stats.demolab.com?user=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>
+ 
+| Stats    | Streak    |
+| :---: | :---: |
+|<a href="https://github.com/wei"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="Jaisal's Streaks"/>|
+
+
+| Contribution Graph    | Languages    |
+| :---: | :---: |
+|<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>|
+
+
 </details>
 <details>
 <summary align="left">Expand to see the technologies and languages that i am familiar with or that i am learning. ⚡ </summary>
@@ -93,3 +101,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I run a YouTube Channel!
 -->
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Wei®️%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+<br />
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
+
+## 🔥 Streak Stats
+
+| Stats    | Streak    |
+| :---: | :---: |
+|<a href="https://github.com/wei"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="Jaisal's Streaks"/>|
