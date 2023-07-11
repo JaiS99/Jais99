@@ -32,7 +32,7 @@
  
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/wei"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="Jaisal's Streaks"/>|
+|<a href="https://github.com/wei"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&theme=transparent&show_owner=true&hide_border=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&theme=transparent&show_owner=true&hide_border=true" alt="Jaisal's Streaks"/>|
 
 
 | Contribution Graph    | Languages    |
