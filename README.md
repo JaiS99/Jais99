@@ -21,7 +21,7 @@
 <h5>🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Social badges-->
-<h4 align="left">Socials Links, Clickable.</h4>
+<h4 align="left">Socials</h4>
 
 <!--All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
 
