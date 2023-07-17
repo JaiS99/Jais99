@@ -7,7 +7,7 @@
 ## Hi👋! This is all about me.   
 
 <span>
-<div align="left"><img width="200" height="100" src="https://github.com/JaiS99/Jais99/assets/48391316/314378d4-aa54-49a8-b641-0e0aae4f6892"> </div>
+<div align="center"><img width="200" height="100" src="https://github.com/JaiS99/Jais99/assets/48391316/314378d4-aa54-49a8-b641-0e0aae4f6892"> </div>
 <span>
 
 <div align="center">
