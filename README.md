@@ -1,18 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hey%20you%20found%20Jaisal's%20Github!%20&animation=fadeIn&textBg=true&fontColor=AD000000&type=waving&color=gradient&height=300&section=header&fontSize=40" />
+<img width=100% src="https://capsule-render.vercel.app/api?text=Hey,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=timeGradient&height=100&section=header&fontSize=40" />
 </div>
 
 <!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
 <!--github-flavoured-Markdown starts from the first line.-->
 
 <span>
-<div align="center"><img width="200" height="100" src="https://github.com/JaiS99/Jais99/assets/48391316/314378d4-aa54-49a8-b641-0e0aae4f6892"> </div>
-<span>
 
 
 <!--Profile Views badge-->
 <h5>🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
+<!--Profile Views counter-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Social badges-->
 <h4 align="left">Socials</h4>
 
