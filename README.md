@@ -27,10 +27,10 @@
 ## Hi👋! This is all about me.   
 
 <div align="center">
-<h3>I'm a web developer,open-source contributor, and a content creator, i occasionally write blogs.</h3>
-<h3>I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h3>
- <h3>I enjoy doing hackathons at Major League Hacking!</h3>
+<h2>I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h2>
 <h3>I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
+<h3>I'm a web developer,open-source contributor,hacker at MLH, a content creator,and i occasionally write blogs.</h3>
+
 <!--You can also use Html tags inside of Markdown.-->
 </div>
 </details>
