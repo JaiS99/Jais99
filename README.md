@@ -9,7 +9,7 @@
 
 
 <!--Profile Views badge-->
-<h5>🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
+<h5 align="center">🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <!--Profile Views counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Social badges-->
