@@ -23,8 +23,7 @@
 [![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/) [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets) 
 [![Discord](https://img.shields.io/badge/-GamingSkull16-212121?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912) [![YouTube](https://img.shields.io/badge/HEXPRT-212121.svg?style=plastic&logo=YouTube&logoColor=FF0000&labelColor=black&link=https://www.youtube.com/@Hexprt)](https://www.youtube.com/@Hexprt)  [![Outlook](https://img.shields.io/badge/jaisalsrivastava@outlook.com-212121.svg?style=plastic&logo=MicrosoftOutlook&logoColor=white&labelColor=black&link=mailto:jaisalsrivastava@outlook.com)](mailto:jaisalsrivastava@outlook.com)    [![Hashnode](https://img.shields.io/badge/-@jaisalsrivastava-212121?style=plastic&labelColor=1F51FF&logo=Hashnode&link=https://jaisalsrivastava.hashnode.dev/)](https://jaisalsrivastava.hashnode.dev/)  [![Devpost](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=003E54&logo=Devpost&link=https://devpost.com/JaiS99)](https://devpost.com/JaiS99)
 
-
-
+<!--About Me-->
 <details>
 <summary><h2>Expand Me!</h2></summary>
 
@@ -35,9 +34,7 @@
 <!--You can also use Html tags inside of Markdown.-->
 </details>
 
-
-
-
+<!--Github Stats-->
 <details open>
 <summary allign="left"><h2> Github stats. 📈 </h2></summary>
  
@@ -53,6 +50,8 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+<!--Technologies-->
 <details>
 <summary align="left"><h2> Technologies I use ⚡</h2> </summary>
 <p align="center">
@@ -62,6 +61,7 @@
 </p>
 </details>
 
+<!--What I daily Drive-->
 <details>
 <summary><h2>My Daily Drives and Apps 👨‍💻</h2></summary>
 <h4 align="left">What Devices I use:</h4>
@@ -84,7 +84,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://code.visualstudio.com/download)](https://code.visualstudio.com/download)  [![Extention](https://img.shields.io/badge/Vscode--icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)   [![Extention](https://img.shields.io/badge/Code_Spell_Checker-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  [![Extention](https://img.shields.io/badge/Colorize-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) [![Extention](https://img.shields.io/badge/Fluent_Icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) [![Extention](https://img.shields.io/badge/Live_Server-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)    [![Extention](https://img.shields.io/badge/Material_Icon_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)    [![Extention](https://img.shields.io/badge/Github_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) [![Extention](https://img.shields.io/badge/Path-Intellisense-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 </details>
   
-
+<!--Automated Github Actions Blog Links-->
 #### :books: My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679069314304/ff322acb-1618-41e9-9b1f-afa0318a1f68.png" alt="Why you should switch to Linux Now!"   /></a>
