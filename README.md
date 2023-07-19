@@ -14,7 +14,7 @@
 
 <!--Wawing Color Text-->
 <p align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?text=Hey👋,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=0:046af7,75:0c47a4,100:046af7&fontColor=cdcdcd&height=100&section=header&fontSize=36" />
+<img width=100% src="https://capsule-render.vercel.app/api?text=Hey👋,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&fontAlign=75&fontAlignY=31&color=0:046af7,75:0c47a4,100:046af7&textBg=true&fontColor=cdcdcd&height=100&section=header&fontSize=20" />
 </p>
 <!--About Me-->
 <details open>
@@ -96,7 +96,7 @@ Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see ma
 <!-- HASHNODE_BLOG:END -->
 </details>
 <p align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:046af7,75:0c47a4,100:046af7&fontColor=ffffff&height=100&section=footer&fontSize=39&rotate=180" />
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=0:046af7,75:0c47a4,100:046af7&height=100&section=footer&" />
 </p>
 
 
