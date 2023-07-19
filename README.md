@@ -1,45 +1,45 @@
-<div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?text=Hey,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=timeGradient&height=100&section=header&fontSize=40" />
-</div>
-
 <!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
-<!--github-flavoured-Markdown starts from the first line.-->
+<!--Github-flavoured-Markdown starts from the first line.-->
+<!--The Waving Dynamic Color Text is from Capsule renderer here: https://github.com/kyechan99/capsule-render-->
+<!--All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
+<!--Every Section is carefully commented for the user to understand!-->
 
-<span>
 
 
-<!--Profile Views badge-->
+
+
+<!--Wawing Color Text-->
+<p align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?text=Hey,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=timeGradient&height=100&section=header&fontSize=40" />
+</p>
+<!--Text pointing to edit-->
 <h5 align="center">🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <!--Profile Views counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
-<!--Social badges-->
+<!--Socials Text-->
 <h4 align="left">Socials</h4>
+<!--Social Badges in Markdown-->
 
-<!--All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
-
-[![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/)  [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets)  [![Discord](https://img.shields.io/badge/-GamingSkull16-212121?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912) [![YouTube](https://img.shields.io/badge/HEXPRT-212121.svg?style=plastic&logo=YouTube&logoColor=FF0000&labelColor=black&link=https://www.youtube.com/@Hexprt)](https://www.youtube.com/@Hexprt)  [![Outlook](https://img.shields.io/badge/jaisalsrivastava@outlook.com-212121.svg?style=plastic&logo=MicrosoftOutlook&logoColor=white&labelColor=black&link=mailto:jaisalsrivastava@outlook.com)](mailto:jaisalsrivastava@outlook.com)    [![Hashnode](https://img.shields.io/badge/-@jaisalsrivastava-212121?style=plastic&labelColor=1F51FF&logo=Hashnode&link=https://jaisalsrivastava.hashnode.dev/)](https://jaisalsrivastava.hashnode.dev/)  [![Devpost](https://img.shields.io/badge/-@Jaisal_Srivastava-212121?style=plastic&labelColor=003E54&logo=Devpost&link=https://devpost.com/JaiS99)](https://devpost.com/JaiS99)
+[![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/) [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets) 
+[![Discord](https://img.shields.io/badge/-GamingSkull16-212121?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912) [![YouTube](https://img.shields.io/badge/HEXPRT-212121.svg?style=plastic&logo=YouTube&logoColor=FF0000&labelColor=black&link=https://www.youtube.com/@Hexprt)](https://www.youtube.com/@Hexprt)  [![Outlook](https://img.shields.io/badge/jaisalsrivastava@outlook.com-212121.svg?style=plastic&logo=MicrosoftOutlook&logoColor=white&labelColor=black&link=mailto:jaisalsrivastava@outlook.com)](mailto:jaisalsrivastava@outlook.com)    [![Hashnode](https://img.shields.io/badge/-@jaisalsrivastava-212121?style=plastic&labelColor=1F51FF&logo=Hashnode&link=https://jaisalsrivastava.hashnode.dev/)](https://jaisalsrivastava.hashnode.dev/)  [![Devpost](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=003E54&logo=Devpost&link=https://devpost.com/JaiS99)](https://devpost.com/JaiS99)
 
 
 
 <details>
-<summary>Expand Me!</summary>
- 
+<summary><h2>Expand Me!</h2></summary>
+
 ## Hi👋! This is all about me.   
-
-<div align="center">
-<h2>I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!<h2>
-<h3>I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
-<h3>I'm a web developer,open-source contributor,hacker at MLH, a content creator,and i occasionally write blogs.</h3>
-
+<h3 align="center">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!</h3>
+<h3 align="center">I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
+<h3 align="center">I'm a web developer,open-source contributor,hacker at MLH, a content creator,and i occasionally write blogs.</h3>
 <!--You can also use Html tags inside of Markdown.-->
-</div>
 </details>
 
 
 
 
-<details>
-<summary allign="left">Expand to see my Github stats. 📈 </summary>
+<details open>
+<summary allign="left"><h2> Github stats. 📈 </h2></summary>
  
 | Stats    | Streak    |
 | :---: | :---: |
@@ -51,9 +51,10 @@
 |<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>|
 
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <details>
-<summary align="left">Expand to see the technologies and languages that i am familiar with or that i am learning. ⚡ </summary>
+<summary align="left"><h2> Technologies I use ⚡</h2> </summary>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=aws,blender,bootstrap,c,cpp,css,express,figma,gatsby,gcp,git,github,githubactions,html,java,js,latex,md,mysql,nextjs,nginx,nodejs,php,py,react,replit,tailwind,threejs,vercel,vscode,vue,windicss&theme=dark" />
@@ -62,7 +63,7 @@
 </details>
 
 <details>
-<summary>Expand to see what I daily drive and some applications that I use. 👨‍💻</summary>
+<summary><h2>My Daily Drives and Apps 👨‍💻</h2></summary>
 <h4 align="left">What Devices I use:</h4>
 
 [![Apple](https://img.shields.io/badge/MacBook_Air_M2-212121.svg?style=flat&logo=apple&logoColor=silver&labelColor=black&link=https://www.apple.com/shop/buy-mac/macbook-air/m2-chip)](https://www.apple.com/shop/buy-mac/macbook-air/m2-chip) [![OnePlus](https://img.shields.io/badge/OnePlus_9R-212121.svg?style=flat&logo=oneplus&logoColor=FF0000&labelColor=black&link=https://www.oneplus.in/oneplus-9r)](https://www.oneplus.in/oneplus-9r) [![Logitech](https://img.shields.io/badge/Logitech_Pebbble-212121?style=flat&logo=logitech&labelColor=black&link=https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)](https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)
