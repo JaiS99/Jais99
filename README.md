@@ -1,8 +1,12 @@
-<!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
-<!--Github-flavoured-Markdown starts from the first line.-->
-<!--The Waving Dynamic Color Text is from Capsule renderer here: https://github.com/kyechan99/capsule-render-->
-<!--All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons-->
-<!--Every Section is carefully commented for the user to understand!-->
+<!--This readme manipulates what will show up in your profile, edit this to change what you see! This readme is written in markdown learn more about markdown here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, more about github-flavoured markdown here https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
+-Github-flavoured-Markdown starts from the first line.
+-You can also use Html tags inside of Markdown.
+-The Waving Dynamic Color Text is from Capsule renderer here: https://github.com/kyechan99/capsule-render
+-All these badges can be found on https://github.com/Ileriayo/markdown-badges though you might want to check out https://github.com/abhisheknaiidu/awesome-github-profile-readme for more stuff, all these badges are from shields.io and the images are form Simple Icons
+-Profile summary cards are from https://github.com/vn7n24fzkq/github-profile-summary-cards 
+-Other stats are from readme-stats https://github.com/anuraghazra/github-readme-stats
+-Every Section is carefully commented for the user to understand!
+-While you can use markdown in your readme, i Preffered to use HTML, with some markdown as it was easier to style.-->
 
 
 
@@ -10,9 +14,16 @@
 
 <!--Wawing Color Text-->
 <p align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?text=Hey,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=timeGradient&height=100&section=header&fontSize=40" />
+<img width=100% src="https://capsule-render.vercel.app/api?text=Hey👋,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&color=0:046af7,75:0c47a4,100:046af7&fontColor=cdcdcd&height=100&section=header&fontSize=36" />
 </p>
-<!--Text pointing to edit-->
+<!--About Me-->
+<details open>
+<summary><h2>About Me</h2></summary>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=37&duration=1600&pause=800&color=006AFF&center=true&vCenter=true&width=1042&height=100&lines=Hi+%2C+I'm+Jaisal+Srivastava!;My+first+contribution+was+on+17th+Jan+2023.;I+am+a+Full+Stack+Developer.;I+mostly+work+on+the+MERN+Stack.;I+love+contributing+to+Open+Source!;I'm++a+Hacker+%40+MLH.;I+make+videos+to+help+fellow+developers!;I+also+write+blogs+at+Hashnode!;You+are+probably+looking+at+the+most+awesome+profile+ever!" alt="Typing SVG" /></a>
+</p>
+</details>
+<!--Text pointing to fork and edit-->
 <h5 align="center">🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <!--Profile Views counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
@@ -23,24 +34,13 @@
 [![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/) [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets) 
 [![Discord](https://img.shields.io/badge/-GamingSkull16-212121?style=plastic&logo=Discord&logoColor=5865F2&link=https://discordapp.com/users/568544894562598912)](http://discordapp.com/users/568544894562598912) [![YouTube](https://img.shields.io/badge/HEXPRT-212121.svg?style=plastic&logo=YouTube&logoColor=FF0000&labelColor=black&link=https://www.youtube.com/@Hexprt)](https://www.youtube.com/@Hexprt)  [![Outlook](https://img.shields.io/badge/jaisalsrivastava@outlook.com-212121.svg?style=plastic&logo=MicrosoftOutlook&logoColor=white&labelColor=black&link=mailto:jaisalsrivastava@outlook.com)](mailto:jaisalsrivastava@outlook.com)    [![Hashnode](https://img.shields.io/badge/-@jaisalsrivastava-212121?style=plastic&labelColor=1F51FF&logo=Hashnode&link=https://jaisalsrivastava.hashnode.dev/)](https://jaisalsrivastava.hashnode.dev/)  [![Devpost](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=003E54&logo=Devpost&link=https://devpost.com/JaiS99)](https://devpost.com/JaiS99)
 
-<!--About Me-->
-<details>
-<summary><h2>Expand Me!</h2></summary>
-
-## Hi👋! This is all about me.   
-<h3 align="center">I am Jaisal Srivastava and you might be looking at the most in-depth github profile ever!</h3>
-<h3 align="center">I started contributing on Github on 17th Jan 2023 and I am currently learning various technologies.</h3>
-<h3 align="center">I'm a web developer,open-source contributor,hacker at MLH, a content creator,and i occasionally write blogs.</h3>
-<!--You can also use Html tags inside of Markdown.-->
-</details>
-
 <!--Github Stats-->
 <details open>
 <summary allign="left"><h2> Github stats. 📈 </h2></summary>
  
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/wei"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&theme=transparent&show_owner=true&hide_border=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&theme=transparent&show_owner=true&hide_border=true" alt="Jaisal's Streaks"/>|
+|<a href="https://github.com/JaiS99"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&theme=transparent&show_owner=true&hide_border=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&theme=transparent&show_owner=true&hide_border=true" alt="Jaisal's Streaks"/>|
 
 
 | Contribution Graph    | Languages    |
@@ -94,6 +94,10 @@
 So, what's wrong with Windows?
 Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see many developers using Windows and while you can daily drive windows as your development e...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
+
+<p align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:046af7,75:0c47a4,100:046af7&fontColor=ffffff&height=100&section=footer&fontSize=39&rotate=180" />
+</p>
 
 
 <!--This is what appears in default readme.md if you create a new repository. I've Commented this out.
