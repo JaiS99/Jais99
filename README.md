@@ -14,7 +14,7 @@
 
 <!--Wawing Color Text-->
 <p align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?text=Hey👋,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&fontAlign=75&fontAlignY=31&color=0:046af7,75:0c47a4,100:046af7&textBg=true&fontColor=cdcdcd&height=100&section=header&fontSize=20" />
+<img width=100% src="https://capsule-render.vercel.app/api?text=Hey👋,%20you%20found%20Jaisal's%20Github%20Page!&animation=fadeIn&type=waving&fontAlign=81&fontAlignY=28&color=0:046af7,75:0c47a4,100:046af7&textBg=true&fontColor=cdcddc&height=115&section=header&fontSize=15" />
 </p>
 <!--About Me-->
 <details open>
