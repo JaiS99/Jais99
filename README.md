@@ -28,7 +28,7 @@
 <!--Profile Views counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
 <!--Socials Text-->
-<h4 align="left">Socials</h4>
+<h2 align="left">Socials</h2>
 <!--Social Badges in Markdown-->
 
 [![Linkedin](https://img.shields.io/badge/-Jaisal_Srivastava-212121?style=plastic&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisal-srivastava/)](https://www.linkedin.com/in/jaisal-srivastava/) [![Twitter](https://img.shields.io/badge/-@Jaisalstweets-212121?style=plastic&labelColor=black&logo=Twitter&link=https://twitter.com/Jaisalstweets)](https://twitter.com/Jaisalstweets) 
@@ -40,13 +40,12 @@
  
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/JaiS99"><img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&theme=transparent&show_owner=true&hide_border=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&theme=transparent&show_owner=true&hide_border=true" alt="Jaisal's Streaks"/>|
+|<img alt="Jaisal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaiS99&show_icons=true&count_private=true&theme=transparent&show_owner=true&hide_border=true" height="190px"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiS99&theme=transparent&show_owner=true&hide_border=true" alt="Jaisal's Streaks"/>|
 
 
 | Contribution Graph    | Languages    |
 | :---: | :---: |
-|<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jais99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jais99&theme=transparent&hide_border=true&border_radius=10"/>|
-
+|<img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaiS99&theme=transparent&hide_border=true&border_radius=10" alt="Jaisal's Github Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiS99&theme=transparent&hide_border=true&border_radius=10"/>|
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -85,7 +84,8 @@
 </details>
   
 <!--Automated Github Actions Blog Links-->
-#### :books: My Latest Blog Posts 👇
+<details>
+<summary><h2>📚 My Latest Blog Posts 👇</h2></summary>
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679069314304/ff322acb-1618-41e9-9b1f-afa0318a1f68.png" alt="Why you should switch to Linux Now!"   /></a>
 <a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><strong>Why you should switch to Linux Now!</strong></a>
@@ -94,7 +94,7 @@
 So, what's wrong with Windows?
 Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see many developers using Windows and while you can daily drive windows as your development e...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
-
+</details>
 <p align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:046af7,75:0c47a4,100:046af7&fontColor=ffffff&height=100&section=footer&fontSize=39&rotate=180" />
 </p>
