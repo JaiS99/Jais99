@@ -20,7 +20,7 @@
 <details open>
 <summary><h2>About Me</h2></summary>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=37&duration=1600&pause=800&color=006AFF&center=true&vCenter=true&width=1042&height=100&lines=Hi+%2C+I'm+Jaisal+Srivastava!;My+first+contribution+was+on+17th+Jan+2023.;I+am+a+Full+Stack+Developer.;I+mostly+work+on+the+MERN+Stack.;I+love+contributing+to+Open+Source!;I'm+hacking+%40+MLH.;I+make+videos+to+help+fellow+developers!;I+also+write+blogs+at+Hashnode!;You+are+probably+looking+at+the+most+awesome+profile+ever!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=37&duration=1600&pause=800&color=006AFF&center=true&vCenter=true&width=1042&height=100&lines=Hi+%20+I'm+Jaisal+Srivastava!;My+first+contribution+was+on+17th+Jan+2023.;I+am+a+Full+Stack+Developer.;I+mostly+work+on+the+MERN+Stack.;I+love+contributing+to+Open+Source!;I'm+hacking+%40+MLH.;I+make+videos+to+help+fellow+developers!;I+also+write+blogs+at+Hashnode!;You+are+probably+looking+at+the+most+awesome+profile+ever!" alt="Typing SVG" /></a>
 </p>
 </details>
 <!--Text pointing to fork and edit-->
