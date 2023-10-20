@@ -60,29 +60,6 @@
 </p>
 </details>
 
-<!--What I daily Drive-->
-<details>
-<summary><h2>My Daily Drives and Apps 👨‍💻</h2></summary>
-<h4 align="left">What Devices I use:</h4>
-
-[![Apple](https://img.shields.io/badge/MacBook_Air_M2-212121.svg?style=flat&logo=apple&logoColor=silver&labelColor=black&link=https://www.apple.com/shop/buy-mac/macbook-air/m2-chip)](https://www.apple.com/shop/buy-mac/macbook-air/m2-chip) [![OnePlus](https://img.shields.io/badge/OnePlus_9R-212121.svg?style=flat&logo=oneplus&logoColor=FF0000&labelColor=black&link=https://www.oneplus.in/oneplus-9r)](https://www.oneplus.in/oneplus-9r) [![Logitech](https://img.shields.io/badge/Logitech_Pebbble-212121?style=flat&logo=logitech&labelColor=black&link=https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)](https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)
-
-
-<h4 align="left">Terminals & Terminal add-ons:</h4>
-<p align=left>psst!,clickable links!,most of these badges are!</p>
-
-
-[![iTerm2](https://img.shields.io/badge/iTerm2-212121.svg?style=flat&logo=iTerm2&labelColor=black&link=https://iterm2.com)](https://iterm2.com)   [![Warp](https://img.shields.io/badge/Warp-212121.svg?style=flat&logo=Warp&labelColor=black&link=https://www.warp.dev)](https://www.warp.dev)   [![Starship](https://img.shields.io/badge/Starship-212121.svg?style=flat&logo=Starship&logoColor=DD0B78&labelColor=black&link=https://starship.rs)](https://starship.rs) 
-
-<h4 align="left">My Browsers:</h4>
-
-![Safari](https://img.shields.io/badge/Safari-212121.svg?style=flat&logo=Safari&logoColor=blue&labelColor=lightgrey)   [![Brave](https://img.shields.io/badge/Brave-212121.svg?style=flat&logo=Brave&logoColor=white&labelColor=black&link=https://brave.com)](https://brave.com)   [![Min](https://img.shields.io/badge/Min-212121.svg?style=flat&link=https://minbrowser.org)](https://minbrowser.org)
-
-<h4 align="left">I use Visual Studio Code and some extentions</h4>
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://code.visualstudio.com/download)](https://code.visualstudio.com/download)  [![Extention](https://img.shields.io/badge/Vscode--icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)   [![Extention](https://img.shields.io/badge/Code_Spell_Checker-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  [![Extention](https://img.shields.io/badge/Colorize-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) [![Extention](https://img.shields.io/badge/Fluent_Icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) [![Extention](https://img.shields.io/badge/Live_Server-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)    [![Extention](https://img.shields.io/badge/Material_Icon_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)    [![Extention](https://img.shields.io/badge/Github_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) [![Extention](https://img.shields.io/badge/Path-Intellisense-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-</details>
-
 <details>
  <summary><h2>My Holopin Board!</h2></summary> 
  
@@ -105,6 +82,38 @@ Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see ma
 <p align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=0:046af7,75:0c47a4,100:046af7&height=100&section=footer&" />
 </p>
+
+
+
+
+
+<!-- REMOVED SINCE I DONT WANT THIS ON MY GITHUB PAGE
+What I daily Drive
+<details>
+<summary><h2>My Daily Drives and Apps 👨‍💻</h2></summary>
+<h4 align="left">What Devices I use:</h4>
+
+[![Apple](https://img.shields.io/badge/MacBook_Air_M2-212121.svg?style=flat&logo=apple&logoColor=silver&labelColor=black&link=https://www.apple.com/shop/buy-mac/macbook-air/m2-chip)](https://www.apple.com/shop/buy-mac/macbook-air/m2-chip) [![OnePlus](https://img.shields.io/badge/OnePlus_9R-212121.svg?style=flat&logo=oneplus&logoColor=FF0000&labelColor=black&link=https://www.oneplus.in/oneplus-9r)](https://www.oneplus.in/oneplus-9r) [![Logitech](https://img.shields.io/badge/Logitech_Pebbble-212121?style=flat&logo=logitech&labelColor=black&link=https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)](https://www.logitech.com/en-us/products/mice/m350-pebble-wireless-mouse.910-005743.html)
+
+
+<h4 align="left">Terminals & Terminal add-ons:</h4>
+<p align=left>psst!,clickable links!,most of these badges are!</p>
+
+
+[![iTerm2](https://img.shields.io/badge/iTerm2-212121.svg?style=flat&logo=iTerm2&labelColor=black&link=https://iterm2.com)](https://iterm2.com)   [![Warp](https://img.shields.io/badge/Warp-212121.svg?style=flat&logo=Warp&labelColor=black&link=https://www.warp.dev)](https://www.warp.dev)   [![Starship](https://img.shields.io/badge/Starship-212121.svg?style=flat&logo=Starship&logoColor=DD0B78&labelColor=black&link=https://starship.rs)](https://starship.rs) 
+
+<h4 align="left">My Browsers:</h4>
+
+![Safari](https://img.shields.io/badge/Safari-212121.svg?style=flat&logo=Safari&logoColor=blue&labelColor=lightgrey)   [![Brave](https://img.shields.io/badge/Brave-212121.svg?style=flat&logo=Brave&logoColor=white&labelColor=black&link=https://brave.com)](https://brave.com)   [![Min](https://img.shields.io/badge/Min-212121.svg?style=flat&link=https://minbrowser.org)](https://minbrowser.org)
+
+<h4 align="left">I use Visual Studio Code and some extentions</h4>
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://code.visualstudio.com/download)](https://code.visualstudio.com/download)  [![Extention](https://img.shields.io/badge/Vscode--icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)   [![Extention](https://img.shields.io/badge/Code_Spell_Checker-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  [![Extention](https://img.shields.io/badge/Colorize-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) [![Extention](https://img.shields.io/badge/Fluent_Icons-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) [![Extention](https://img.shields.io/badge/Live_Server-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)    [![Extention](https://img.shields.io/badge/Material_Icon_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)    [![Extention](https://img.shields.io/badge/Github_Theme-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) [![Extention](https://img.shields.io/badge/Path-Intellisense-212121.svg?style=flat&logo=VisualStudioCode&logoColor=007ACC&labelColor=black&link=https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+</details>-->
+
+
+
+
 
 
 <!--This is what appears in default readme.md if you create a new repository. I've Commented this out.
