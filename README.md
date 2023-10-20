@@ -50,26 +50,10 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!--Technologies-->
-<details>
-<summary align="left"><h2> Technologies I use ⚡</h2> </summary>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=aws,blender,bootstrap,c,cpp,css,express,figma,gatsby,gcp,git,github,githubactions,html,java,js,latex,md,mysql,nextjs,nginx,nodejs,php,py,react,replit,tailwind,threejs,vercel,vscode,vue,windicss&theme=dark" />
-  </a>
-</p>
-</details>
 
-<details>
- <summary><h2>My Holopin Board!</h2></summary> 
- 
- [![@jais99's Holopin board](https://holopin.me/@jais99)](https://holopin.io/@jais99) 
- 
-</details>
-  
 <!--Automated Github Actions Blog Links-->
 <details>
-<summary><h2>📚 My Latest Blog Posts 👇</h2></summary>
+<summary><h2>📚 Hear from Me!👇</h2></summary>
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679069314304/ff322acb-1618-41e9-9b1f-afa0318a1f68.png" alt="Why you should switch to Linux Now!"   /></a>
 <a href="https://jaisalsrivastava.hashnode.dev/why-you-should-switch-to-linux-now" title="Why you should switch to Linux Now!"><strong>Why you should switch to Linux Now!</strong></a>
@@ -88,6 +72,27 @@ Well, Nothing! Yes, you heard me right! nothing is wrong with windows you see ma
 
 
 <!-- REMOVED SINCE I DONT WANT THIS ON MY GITHUB PAGE
+
+Technologies
+<details>
+<summary align="left"><h2> Technologies I use ⚡</h2> </summary>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=aws,blender,bootstrap,c,cpp,css,express,figma,gatsby,gcp,git,github,githubactions,html,java,js,latex,md,mysql,nextjs,nginx,nodejs,php,py,react,replit,tailwind,threejs,vercel,vscode,vue,windicss&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details>
+ <summary><h2>My Holopin Board!</h2></summary> 
+ 
+ [![@jais99's Holopin board](https://holopin.me/@jais99)](https://holopin.io/@jais99) 
+ 
+</details>
+  
+
+
+
 What I daily Drive
 <details>
 <summary><h2>My Daily Drives and Apps 👨‍💻</h2></summary>
