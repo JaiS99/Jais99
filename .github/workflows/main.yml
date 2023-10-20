@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'jaisalsrivastava'
           BLOG_URL: 'https://jaisalsrivastava.hashnode.dev' 
-          COUNT: 2
+          COUNT: 4
           STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
