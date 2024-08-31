@@ -22,11 +22,30 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=37&duration=1600&pause=800&color=006AFF&center=true&vCenter=true&width=1042&height=100&lines=Hi+%20+I'm+Jaisal+Srivastava!;My+first+contribution+was+on+17th+Jan+2023.;I+am+a+Full+Stack+Developer.;I+mostly+work+on+the+MERN+Stack.;I+love+contributing+to+Open+Source!;I'm+hacking+%40+MLH.;I+make+videos+to+help+fellow+developers!;I+also+write+blogs+at+Hashnode!;" alt="Typing SVG" /></a>
 </p>
+ <p align="center"> I'm a Software Developer who loves to write backend code, who's dabbled in AI and have a passion for development and a mindset for growth and self learning!
 </details>
 <!--Text pointing to fork and edit-->
 <h5 align="center">🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <!--Profile Views counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic&abbreviated=true" alt="Jais99"/> </p>
+
+<h3 align="left">Languages</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts,html,css,mysql,mongodb&theme=dark"/>
+</p>
+<h3 align="left">Cloud Technolofgies</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark"/>
+</p>
+<h3 align="left">Operating Systems
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=dark"/>
+</p>
+<h3 align="left">Libraries,Frameworks,Tools</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=astro,babel,bash,bitbucket,bootstrap,docker,express,figma,flask,git,github,latex,md,netlify,nesxtjs,nodejs,npm,opencv,php,postman,powershell,pycharm,react,replit,tailwind,vercel,vscode,vuem&theme=dark"/>
+</p>
+
 <!--Socials Text-->
 <h2 align="left">Socials</h2>
 <!--Social Badges in Markdown-->
