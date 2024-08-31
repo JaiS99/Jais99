@@ -26,7 +26,7 @@
 <!--Text pointing to fork and edit-->
 <h5 align="center">🤫 Edit this readme.md by forking it to uncover hidden stuff, and learn  how you can build one for yourself!</h5>
 <!--Profile Views counter-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic" alt="Jais99"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jais99&label=Views+On+Profile&color=212121&style=plastic&abbreviated=true" alt="Jais99"/> </p>
 <!--Socials Text-->
 <h2 align="left">Socials</h2>
 <!--Social Badges in Markdown-->
